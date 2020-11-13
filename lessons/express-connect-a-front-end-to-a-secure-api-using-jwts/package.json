@@ -1,0 +1,19 @@
+{
+  "name": "egghead-connect-a-front-end-to-a-secure-api-using-jwts",
+  "version": "1.0.0",
+  "description": "We add the login form to a single page application and we pass our tokens to the API. Should the token be valid, we will have access to the data from the secure endpoint in the API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterOnCode/egghead-connect-a-front-end-to-a-secure-api-using-jwts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterOnCode/egghead-connect-a-front-end-to-a-secure-api-using-jwts/issues"
+  },
+  "homepage": "https://github.com/PeterOnCode/egghead-connect-a-front-end-to-a-secure-api-using-jwts#readme"
+}
