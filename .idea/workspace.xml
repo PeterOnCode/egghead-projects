@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d04f83d-59f4-48b0-9e14-bd43add5fcfa" name="advanced-fine-grained-control-of-vue-js-components" comment="[advanced-fine-grained-control-of-vue-js-components]&#10;- add files">
-      <change afterPath="$PROJECT_DIR$/lessons/express-connect-a-front-end-to-a-secure-api-using-jwts/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/express-connect-a-front-end-to-a-secure-api-using-jwts/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/express-connect-a-front-end-to-a-secure-api-using-jwts/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/express-connect-a-front-end-to-a-secure-api-using-jwts/package.json" afterDir="false" />
+    <list default="true" id="0d04f83d-59f4-48b0-9e14-bd43add5fcfa" name="getting-started-with-express-js" comment="[getting-started-with-express-js] &#10;- 2 - Define dynamic routes through Express&#10;- 3 - Use Template Engines with Express">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/getting-started-with-express-js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/courses/getting-started-with-express-js/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,24 +25,39 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" folderName="getting-started-with-express-js" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/courses/getting-started-with-express-js/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="" name="Default Changelist" comment="" />
       <changelist id="0d04f83d-59f4-48b0-9e14-bd43add5fcfa" name="getting-started-with-express-js" comment="" />
-      <changelist id="" name="json-web-token-jwt-authentication-with-node-js-and-auth0" comment="" />
       <created>1605304922485</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605304922485</updated>
       <workItem from="1605304923904" duration="1075000" />
+      <workItem from="1608630988515" duration="87000" />
+      <workItem from="1608631131714" duration="2698000" />
     </task>
     <task id="LOCAL-00001" summary="[advanced-fine-grained-control-of-vue-js-components] &#10;- init">
       <created>1605305058235</created>
@@ -92,6 +107,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[advanced-fine-grained-control-of-vue-js-components] &#10;- init" />
     <MESSAGE value="[getting-started-with-express-js] - init" />
@@ -99,24 +125,7 @@
     <MESSAGE value="[advanced-fine-grained-control-of-vue-js-components] &#10;- restructure" />
     <MESSAGE value="[README]" />
     <MESSAGE value="[advanced-fine-grained-control-of-vue-js-components]&#10;- add files" />
-    <option name="LAST_COMMIT_MESSAGE" value="[advanced-fine-grained-control-of-vue-js-components]&#10;- add files" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-1383" y="107" key="CommitChangelistDialog2" timestamp="1605305980767">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1383" y="107" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605305980767" />
-    <state x="-1074" y="434" key="VCS.EditChangelistDialog" timestamp="1605305966607">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1074" y="434" key="VCS.EditChangelistDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605305966607" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605305065671">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605305065671" />
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605305999494">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605305999494" />
+    <MESSAGE value="[getting-started-with-express-js] &#10;- 2 - Define dynamic routes through Express&#10;- 3 - Use Template Engines with Express" />
+    <option name="LAST_COMMIT_MESSAGE" value="[getting-started-with-express-js] &#10;- 2 - Define dynamic routes through Express&#10;- 3 - Use Template Engines with Express" />
   </component>
 </project>

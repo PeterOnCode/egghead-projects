@@ -24,6 +24,7 @@ app.set('view engine', 'hbs');
 
 app.get('/', function (req, res) {
   res.render('index', { users })
+  // res.render('index.jade', { users })
 })
 
 app.get('/:username', (req, res) => {
